@@ -1,0 +1,5 @@
+{
+  "name": "websocket",
+  "region": "us-west-1",
+  "main": "stacks/index.ts"
+}
