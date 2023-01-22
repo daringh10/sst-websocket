@@ -14,7 +14,7 @@ Test:
  - everyone connected will see the message and receieve it.
 
  Deploy:
- (This allows us to separate our environments, so when we are working in dev, it doesn’t break the API for users.)
+ (This allows us to separate our environments, so when working in dev, it doesn’t break the API for active users.)
 - npx sst deploy --stage prod
     
  Cleanup:
