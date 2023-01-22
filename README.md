@@ -5,6 +5,7 @@ First time use:
     - npm install
     - cd services
     - npm install aws-sdk
+    
 Test:
  - https://www.piesocket.com/websocket-tester
  - enter: wss://dcm74utml8.execute-api.us-west-1.amazonaws.com/admin
